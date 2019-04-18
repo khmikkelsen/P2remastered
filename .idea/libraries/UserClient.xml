@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="UserClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UserClient/sqlite-jdbc-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UserClient/bcprov-ext-jdk15on-159.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UserClient/gson-2.8.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/UserClient/P2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

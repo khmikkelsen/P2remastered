@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="P2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bcprov-ext-jdk15on-159.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.21.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
